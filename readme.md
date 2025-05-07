@@ -1,4 +1,4 @@
-# Laboratorio 7. Taller Inicial de Django: Views y Templates
+# Laboratorio. Taller Inicial de Django: Views y Templates
 
 Este laboratorio está diseñado para que los participantes puedan aprender y reforzar sus conocimientos de Python, HTML y CSS mediante la creación de una lista de Pokemones y una página de datalle. Utilizando como framework de desarrollo MVC a Django. De la misma manera se hará una introduccion a Bootstrap para el uso de librerías de Interfaz de usuario en HTML.
 
@@ -87,4 +87,4 @@ python3 manage.py startapp pokedex
 python manage.py startapp pokedex
 ~~~
 
-Para los siguientes pasos se deberán seguir las instrucciones del docente en clase. No olvide que puedes contactarlo a <paperez@puce.edu.ec>
+Para los siguientes pasos se deberán seguir las instrucciones del docente en clase. No olvide que puedes contactarlo a <pablo.perez@uisek.edu.ec> o <paperez@puce.edu.ec> para consultar cualquier inquietud del presente laboratorio
